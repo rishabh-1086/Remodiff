@@ -1,0 +1,330 @@
+2025-04-24 15:23:16,045 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 15:23:30,330 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 15:23:41,228 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 15:26:23,648 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 15:26:30,138 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 15:26:37,076 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 15:28:58,968 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 15:29:05,656 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 15:29:12,944 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 15:34:04,543 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 15:34:12,261 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 15:34:18,621 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 15:42:45,403 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 15:42:52,785 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 15:42:59,230 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 15:45:25,196 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 15:45:31,709 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 15:45:38,030 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 15:59:12,946 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 15:59:19,829 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 15:59:26,928 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 16:01:06,936 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 16:01:13,899 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 16:01:21,462 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 16:17:35,059 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 16:17:41,898 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 16:17:49,066 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 16:31:30,241 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 16:31:37,461 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 16:31:44,517 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 16:37:00,846 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 16:37:07,398 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 16:37:13,670 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 16:39:02,284 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 16:39:08,682 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 16:39:15,700 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 16:56:30,330 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 16:56:36,855 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 16:56:43,415 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 16:58:56,315 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 16:59:03,158 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 16:59:09,512 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 17:02:21,268 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 17:02:27,955 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 17:02:34,308 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 17:07:07,208 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 17:07:13,452 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 17:07:20,555 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 17:12:24,014 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 17:12:30,940 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 17:12:38,320 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 17:14:40,867 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 17:14:47,195 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 17:14:53,627 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 17:34:28,604 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 17:34:35,351 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 17:34:42,152 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 17:35:42,925 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 17:35:50,243 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 17:35:57,350 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 17:58:41,053 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 17:58:48,320 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 17:58:54,704 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 18:04:59,794 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 18:05:06,527 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 18:05:14,103 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 18:06:33,121 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 18:06:39,355 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 18:06:46,324 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 18:13:34,899 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 18:13:41,405 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 18:13:48,617 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 18:15:25,717 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 18:15:32,251 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 18:15:39,367 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 18:46:36,519 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 18:46:43,709 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 18:46:50,817 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 18:48:48,162 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 18:48:54,444 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 18:49:00,974 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 19:00:02,960 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 19:00:09,552 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 19:00:16,141 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 21:16:53,151 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 21:16:59,459 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 21:17:06,986 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 21:19:08,112 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 21:19:15,176 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 21:19:22,488 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 21:22:37,077 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 21:22:44,356 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 21:22:51,246 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 21:26:30,541 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 21:26:37,005 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 21:26:43,466 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 21:28:30,507 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 21:28:36,885 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 21:28:43,417 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 21:31:34,248 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 21:31:40,505 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 21:31:47,112 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 21:33:41,437 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 21:33:47,730 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 21:33:53,885 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 21:39:00,280 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 21:39:06,397 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 21:39:13,481 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 21:41:16,156 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 21:41:22,548 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 21:41:29,244 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 21:46:47,628 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 21:46:54,293 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 21:47:00,674 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 21:48:35,974 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 21:48:42,462 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 21:48:48,835 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 22:14:30,065 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 22:14:37,529 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 22:14:43,881 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 22:45:38,591 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 22:45:42,605 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 22:45:46,275 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 22:50:00,871 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 22:50:05,069 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 22:50:08,724 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 23:22:10,098 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 23:22:17,075 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 23:22:23,558 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 23:25:22,211 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 23:25:29,361 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 23:25:35,923 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 23:26:32,894 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 23:26:40,523 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 23:26:47,798 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 23:34:07,765 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 23:34:14,284 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 23:34:21,277 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 23:39:14,275 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 23:39:21,783 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 23:39:29,176 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 23:45:03,210 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 23:45:09,564 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 23:45:16,462 - MMSA [INFO] - test samples: (1986,)
+2025-04-24 23:52:48,625 - MMSA [INFO] - train samples: (5952,)
+2025-04-24 23:52:55,757 - MMSA [INFO] - valid samples: (1989,)
+2025-04-24 23:53:02,379 - MMSA [INFO] - test samples: (1986,)
+2025-04-25 00:17:28,085 - MMSA [INFO] - train samples: (5952,)
+2025-04-25 00:17:34,505 - MMSA [INFO] - valid samples: (1989,)
+2025-04-25 00:17:42,401 - MMSA [INFO] - test samples: (1986,)
+2025-04-25 00:35:13,959 - MMSA [INFO] - train samples: (5952,)
+2025-04-25 00:35:20,619 - MMSA [INFO] - valid samples: (1989,)
+2025-04-25 00:35:27,044 - MMSA [INFO] - test samples: (1986,)
+2025-04-25 22:48:43,978 - MMSA [INFO] - train samples: (5952,)
+2025-04-25 22:48:54,016 - MMSA [INFO] - valid samples: (1989,)
+2025-04-25 22:49:01,618 - MMSA [INFO] - test samples: (1986,)
+2025-04-25 22:50:33,685 - MMSA [INFO] - train samples: (5952,)
+2025-04-25 22:50:37,543 - MMSA [INFO] - valid samples: (1989,)
+2025-04-25 22:50:41,544 - MMSA [INFO] - test samples: (1986,)
+2025-04-26 00:39:03,964 - MMSA [INFO] - train samples: (5952,)
+2025-04-26 00:39:08,703 - MMSA [INFO] - valid samples: (1989,)
+2025-04-26 00:39:12,325 - MMSA [INFO] - test samples: (1986,)
+2025-04-26 12:26:27,751 - MMSA [INFO] - train samples: (5952,)
+2025-04-26 12:26:34,100 - MMSA [INFO] - valid samples: (1989,)
+2025-04-26 12:26:40,141 - MMSA [INFO] - test samples: (1986,)
+2025-04-26 12:59:31,108 - MMSA [INFO] - train samples: (5952,)
+2025-04-26 12:59:34,753 - MMSA [INFO] - valid samples: (1989,)
+2025-04-26 12:59:38,751 - MMSA [INFO] - test samples: (1986,)
+2025-04-26 15:14:00,537 - MMSA [INFO] - train samples: (5952,)
+2025-04-26 15:14:07,509 - MMSA [INFO] - valid samples: (1989,)
+2025-04-26 15:14:14,138 - MMSA [INFO] - test samples: (1986,)
+2025-04-27 00:57:03,265 - MMSA [INFO] - train samples: (5952,)
+2025-04-27 00:57:10,070 - MMSA [INFO] - valid samples: (1989,)
+2025-04-27 00:57:16,798 - MMSA [INFO] - test samples: (1986,)
+2025-04-27 00:58:55,305 - MMSA [INFO] - train samples: (5952,)
+2025-04-27 00:59:01,657 - MMSA [INFO] - valid samples: (1989,)
+2025-04-27 00:59:08,104 - MMSA [INFO] - test samples: (1986,)
+2025-04-27 01:02:47,394 - MMSA [INFO] - train samples: (5952,)
+2025-04-27 01:02:53,887 - MMSA [INFO] - valid samples: (1989,)
+2025-04-27 01:03:00,921 - MMSA [INFO] - test samples: (1986,)
+2025-04-27 01:05:28,575 - MMSA [INFO] - train samples: (5952,)
+2025-04-27 01:05:35,107 - MMSA [INFO] - valid samples: (1989,)
+2025-04-27 01:05:42,164 - MMSA [INFO] - test samples: (1986,)
+2025-04-27 07:35:04,033 - MMSA [INFO] - train samples: (5952,)
+2025-04-27 07:35:11,566 - MMSA [INFO] - valid samples: (1989,)
+2025-04-27 07:35:19,330 - MMSA [INFO] - test samples: (1986,)
+2025-04-27 07:42:11,643 - MMSA [INFO] - train samples: (5952,)
+2025-04-27 07:42:16,437 - MMSA [INFO] - valid samples: (1989,)
+2025-04-27 07:42:20,344 - MMSA [INFO] - test samples: (1986,)
+2025-04-27 08:00:07,030 - MMSA [INFO] - train samples: (5952,)
+2025-04-27 08:00:11,515 - MMSA [INFO] - valid samples: (1989,)
+2025-04-27 08:00:16,135 - MMSA [INFO] - test samples: (1986,)
+2025-04-27 08:11:33,590 - MMSA [INFO] - train samples: (5952,)
+2025-04-27 08:11:37,980 - MMSA [INFO] - valid samples: (1989,)
+2025-04-27 08:11:41,916 - MMSA [INFO] - test samples: (1986,)
+2025-04-27 08:24:06,865 - MMSA [INFO] - train samples: (5952,)
+2025-04-27 08:24:14,210 - MMSA [INFO] - valid samples: (1989,)
+2025-04-27 08:24:21,156 - MMSA [INFO] - test samples: (1986,)
+2025-04-27 08:33:42,428 - MMSA [INFO] - train samples: (5952,)
+2025-04-27 08:33:50,597 - MMSA [INFO] - valid samples: (1989,)
+2025-04-27 08:33:57,697 - MMSA [INFO] - test samples: (1986,)
+2025-04-27 08:36:23,449 - MMSA [INFO] - train samples: (5952,)
+2025-04-27 08:36:30,564 - MMSA [INFO] - valid samples: (1989,)
+2025-04-27 08:36:37,214 - MMSA [INFO] - test samples: (1986,)
+2025-04-27 08:38:56,515 - MMSA [INFO] - train samples: (5952,)
+2025-04-27 08:39:03,114 - MMSA [INFO] - valid samples: (1989,)
+2025-04-27 08:39:10,566 - MMSA [INFO] - test samples: (1986,)
+2025-04-27 08:39:58,956 - MMSA [INFO] - train samples: (5952,)
+2025-04-27 08:40:05,285 - MMSA [INFO] - valid samples: (1989,)
+2025-04-27 08:40:11,739 - MMSA [INFO] - test samples: (1986,)
+2025-04-27 08:43:10,935 - MMSA [INFO] - train samples: (5952,)
+2025-04-27 08:43:18,440 - MMSA [INFO] - valid samples: (1989,)
+2025-04-27 08:43:25,732 - MMSA [INFO] - test samples: (1986,)
+2025-04-27 08:47:18,401 - MMSA [INFO] - train samples: (5952,)
+2025-04-27 08:47:24,917 - MMSA [INFO] - valid samples: (1989,)
+2025-04-27 08:47:31,386 - MMSA [INFO] - test samples: (1986,)
+2025-04-27 08:50:52,609 - MMSA [INFO] - train samples: (5952,)
+2025-04-27 08:50:59,122 - MMSA [INFO] - valid samples: (1989,)
+2025-04-27 08:51:06,178 - MMSA [INFO] - test samples: (1986,)
+2025-04-27 08:59:21,996 - MMSA [INFO] - train samples: (5952,)
+2025-04-27 08:59:25,952 - MMSA [INFO] - valid samples: (1989,)
+2025-04-27 08:59:29,583 - MMSA [INFO] - test samples: (1986,)
+2025-04-27 09:27:52,634 - MMSA [INFO] - train samples: (5952,)
+2025-04-27 09:27:56,181 - MMSA [INFO] - valid samples: (1989,)
+2025-04-27 09:27:59,881 - MMSA [INFO] - test samples: (1986,)
+2025-04-27 09:29:47,193 - MMSA [INFO] - train samples: (5952,)
+2025-04-27 09:29:50,768 - MMSA [INFO] - valid samples: (1989,)
+2025-04-27 09:29:54,380 - MMSA [INFO] - test samples: (1986,)
+2025-04-27 09:31:42,966 - MMSA [INFO] - train samples: (5952,)
+2025-04-27 09:31:46,556 - MMSA [INFO] - valid samples: (1989,)
+2025-04-27 09:31:50,420 - MMSA [INFO] - test samples: (1986,)
+2025-04-27 09:35:21,181 - MMSA [INFO] - train samples: (5952,)
+2025-04-27 09:35:24,839 - MMSA [INFO] - valid samples: (1989,)
+2025-04-27 09:35:28,463 - MMSA [INFO] - test samples: (1986,)
+2025-04-28 16:51:11,604 - MMSA [INFO] - train samples: (5952,)
+2025-04-28 16:51:19,758 - MMSA [INFO] - valid samples: (1989,)
+2025-04-28 16:51:24,512 - MMSA [INFO] - test samples: (1986,)
+2025-04-28 16:56:05,655 - MMSA [INFO] - train samples: (5952,)
+2025-04-28 16:56:10,176 - MMSA [INFO] - valid samples: (1989,)
+2025-04-28 16:56:16,026 - MMSA [INFO] - test samples: (1986,)
+2025-04-28 17:02:25,565 - MMSA [INFO] - train samples: (5952,)
+2025-04-28 17:02:29,231 - MMSA [INFO] - valid samples: (1989,)
+2025-04-28 17:02:33,043 - MMSA [INFO] - test samples: (1986,)
+2025-04-28 17:04:44,626 - MMSA [INFO] - train samples: (5952,)
+2025-04-28 17:04:47,931 - MMSA [INFO] - valid samples: (1989,)
+2025-04-28 17:04:51,407 - MMSA [INFO] - test samples: (1986,)
+2025-04-28 18:37:47,444 - MMSA [INFO] - Downstream Dataset train samples: 5952
+2025-04-28 18:37:48,176 - MMSA [INFO] - Downstream Dataset valid samples: 1989
+2025-04-28 18:37:48,980 - MMSA [INFO] - Downstream Dataset test samples: 1986
+2025-04-28 18:38:24,804 - MMSA [INFO] - Downstream Dataset train samples: 5952
+2025-04-28 18:38:26,522 - MMSA [INFO] - Downstream Dataset valid samples: 1989
+2025-04-28 18:38:28,405 - MMSA [INFO] - Downstream Dataset test samples: 1986
+2025-04-28 18:41:45,120 - MMSA [INFO] - Downstream Dataset train samples: 5952
+2025-04-28 18:41:46,319 - MMSA [INFO] - Downstream Dataset valid samples: 1989
+2025-04-28 18:41:47,740 - MMSA [INFO] - Downstream Dataset test samples: 1986
+2025-04-28 18:42:32,637 - MMSA [INFO] - Downstream Dataset train samples: 5952
+2025-04-28 18:42:33,369 - MMSA [INFO] - Downstream Dataset valid samples: 1989
+2025-04-28 18:42:33,961 - MMSA [INFO] - Downstream Dataset test samples: 1986
+2025-04-28 18:43:46,252 - MMSA [INFO] - train samples: (5952,)
+2025-04-28 18:43:53,119 - MMSA [INFO] - valid samples: (1989,)
+2025-04-28 18:43:59,248 - MMSA [INFO] - test samples: (1986,)
+2025-04-28 18:46:59,976 - MMSA [INFO] - Downstream Dataset train samples: 5952
+2025-04-28 18:47:01,661 - MMSA [INFO] - Downstream Dataset valid samples: 1989
+2025-04-28 18:47:02,718 - MMSA [INFO] - Downstream Dataset test samples: 1986
+2025-04-28 18:48:42,588 - MMSA [INFO] - Downstream Dataset train samples: 5952
+2025-04-28 18:48:44,338 - MMSA [INFO] - Downstream Dataset valid samples: 1989
+2025-04-28 18:48:45,577 - MMSA [INFO] - Downstream Dataset test samples: 1986
+2025-04-28 18:49:55,671 - MMSA [INFO] - Downstream Dataset train samples: 5952
+2025-04-28 18:49:56,417 - MMSA [INFO] - Downstream Dataset valid samples: 1989
+2025-04-28 18:49:56,996 - MMSA [INFO] - Downstream Dataset test samples: 1986
+2025-04-28 18:52:05,680 - MMSA [INFO] - Downstream Dataset train samples: 5952
+2025-04-28 18:52:06,458 - MMSA [INFO] - Downstream Dataset valid samples: 1989
+2025-04-28 18:52:07,051 - MMSA [INFO] - Downstream Dataset test samples: 1986
+2025-04-28 18:55:10,069 - MMSA [INFO] - Downstream Dataset train samples: 5952
+2025-04-28 18:55:11,267 - MMSA [INFO] - Downstream Dataset valid samples: 1989
+2025-04-28 18:55:12,314 - MMSA [INFO] - Downstream Dataset test samples: 1986
+2025-04-28 18:57:01,612 - MMSA [INFO] - Downstream Dataset train samples: 5952
+2025-04-28 18:57:02,345 - MMSA [INFO] - Downstream Dataset valid samples: 1989
+2025-04-28 18:57:02,976 - MMSA [INFO] - Downstream Dataset test samples: 1986
+2025-04-28 19:03:05,673 - MMSA [INFO] - Downstream Dataset train samples: 5952
+2025-04-28 19:03:06,470 - MMSA [INFO] - Downstream Dataset valid samples: 1989
+2025-04-28 19:03:07,086 - MMSA [INFO] - Downstream Dataset test samples: 1986
+2025-04-28 19:16:47,014 - MMSA [INFO] - Downstream Dataset train samples: 5952
+2025-04-28 19:16:47,750 - MMSA [INFO] - Downstream Dataset valid samples: 1989
+2025-04-28 19:16:48,355 - MMSA [INFO] - Downstream Dataset test samples: 1986
+2025-04-28 19:17:25,259 - MMSA [INFO] - Downstream Dataset train samples: 5952
+2025-04-28 19:17:26,299 - MMSA [INFO] - Downstream Dataset valid samples: 1989
+2025-04-28 19:17:26,886 - MMSA [INFO] - Downstream Dataset test samples: 1986
+2025-04-28 19:18:01,507 - MMSA [INFO] - Downstream Dataset train samples: 5952
+2025-04-28 19:18:02,244 - MMSA [INFO] - Downstream Dataset valid samples: 1989
+2025-04-28 19:18:02,841 - MMSA [INFO] - Downstream Dataset test samples: 1986
+2025-04-28 19:18:50,944 - MMSA [INFO] - Downstream Dataset train samples: 5952
+2025-04-28 19:18:52,220 - MMSA [INFO] - Downstream Dataset valid samples: 1989
+2025-04-28 19:18:53,344 - MMSA [INFO] - Downstream Dataset test samples: 1986
+2025-04-28 19:20:22,037 - MMSA [INFO] - Downstream Dataset train samples: 5952
+2025-04-28 19:20:22,778 - MMSA [INFO] - Downstream Dataset valid samples: 1989
+2025-04-28 19:20:23,391 - MMSA [INFO] - Downstream Dataset test samples: 1986
+2025-04-28 19:21:14,728 - MMSA [INFO] - Downstream Dataset train samples: 5952
+2025-04-28 19:21:16,014 - MMSA [INFO] - Downstream Dataset valid samples: 1989
+2025-04-28 19:21:17,184 - MMSA [INFO] - Downstream Dataset test samples: 1986
+2025-04-28 19:22:16,323 - MMSA [INFO] - Downstream Dataset train samples: 5952
+2025-04-28 19:22:17,568 - MMSA [INFO] - Downstream Dataset valid samples: 1989
+2025-04-28 19:22:18,817 - MMSA [INFO] - Downstream Dataset test samples: 1986
+2025-04-28 19:24:58,728 - MMSA [INFO] - Downstream Dataset train samples: 5952
+2025-04-28 19:24:59,487 - MMSA [INFO] - Downstream Dataset valid samples: 1989
+2025-04-28 19:25:00,120 - MMSA [INFO] - Downstream Dataset test samples: 1986
+2025-04-28 19:33:47,527 - MMSA [INFO] - Downstream Dataset train samples: 5952
+2025-04-28 19:33:48,277 - MMSA [INFO] - Downstream Dataset valid samples: 1989
+2025-04-28 19:33:48,867 - MMSA [INFO] - Downstream Dataset test samples: 1986
+2025-04-28 19:35:00,571 - MMSA [INFO] - Downstream Dataset train samples: 5952
+2025-04-28 19:35:01,662 - MMSA [INFO] - Downstream Dataset valid samples: 1989
+2025-04-28 19:35:02,264 - MMSA [INFO] - Downstream Dataset test samples: 1986
+2025-04-28 19:38:10,904 - MMSA [INFO] - Downstream Dataset train samples: 5952
+2025-04-28 19:38:11,617 - MMSA [INFO] - Downstream Dataset valid samples: 1989
+2025-04-28 19:38:12,205 - MMSA [INFO] - Downstream Dataset test samples: 1986
+2025-04-28 19:45:49,383 - MMSA [INFO] - Downstream Dataset train samples: 5952
+2025-04-28 19:45:50,163 - MMSA [INFO] - Downstream Dataset valid samples: 1989
+2025-04-28 19:45:50,802 - MMSA [INFO] - Downstream Dataset test samples: 1986
+2025-04-29 22:49:52,611 - MMSA [INFO] - train samples: (5952,)
+2025-04-29 22:50:05,244 - MMSA [INFO] - valid samples: (1989,)
+2025-04-29 22:50:17,276 - MMSA [INFO] - test samples: (1986,)
+2025-04-30 13:58:13,500 - MMSA [INFO] - train samples: (5952,)
+2025-04-30 13:58:21,360 - MMSA [INFO] - valid samples: (1989,)
+2025-04-30 13:58:30,218 - MMSA [INFO] - test samples: (1986,)
+2025-05-03 22:22:43,447 - MMSA [INFO] - train samples: (5952,)
+2025-05-03 22:23:00,047 - MMSA [INFO] - valid samples: (1989,)
+2025-05-03 22:23:16,378 - MMSA [INFO] - test samples: (1986,)
+2025-05-03 22:29:23,131 - MMSA [INFO] - train samples: (5952,)
+2025-05-03 22:29:28,211 - MMSA [INFO] - valid samples: (1989,)
+2025-05-03 22:29:32,646 - MMSA [INFO] - test samples: (1986,)

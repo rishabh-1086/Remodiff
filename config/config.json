@@ -1,0 +1,50 @@
+{
+  "datasetCommonParams": {
+    "dataset_root_dir": "dataset",
+    "first_impression": {
+      "aligned": {
+        "featurePath": "first_impression/aligned_50.pkl",
+        "feature_dims": [768, 1024, 512],
+        "train_samples": 6000,
+        "num_classes": 5,
+        "language": "en",
+        "KeyEval": "Loss"
+      }
+    }
+  },
+  "remodiff": {
+    "commonParams": {
+      "need_data_aligned": true,
+      "need_model_aligned": true,
+      "early_stop": 20,
+      "use_bert": true,
+      "use_finetune": true,
+      "attn_mask": true,
+      "update_epochs": 1
+    },
+    "datasetParams": {
+      "first_impression": {
+        "attn_dropout_a": 0.0,
+        "attn_dropout_v": 0.0,
+        "relu_dropout": 0.0,
+        "embed_dropout": 0.0,
+        "res_dropout": 0.0,
+        "dst_feature_dim_nheads": [32, 8],
+        "batch_size": 128,
+        "learning_rate": 0.002,
+        "nlevels": 6,
+        "conv1d_kernel_size_l": 3,
+        "conv1d_kernel_size_a": 3,
+        "conv1d_kernel_size_v": 3,
+        "text_dropout": 0.0,
+        "attn_dropout": 0.0,
+        "output_dropout": 0.0,
+        "grad_clip": 0.6,
+        "patience": 5,
+        "weight_decay": 0.005,
+        "transformers": "bert",
+        "pretrained": "bert-base-uncased"
+      }
+    }
+  }
+}
